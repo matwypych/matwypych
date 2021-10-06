@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @matwypych
+- 👀 I’m interested in making cool mobile apps
+- 🌱 I’m currently learning Flutter (Dart), Kotlin, Java
+- 📫 How to reach me ... mateusz.wypych98@wp.pl 
